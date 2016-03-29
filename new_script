@@ -1,0 +1,13 @@
+sphere
+300 300 60
+ident
+yrotate
+45
+translate
+200 -50 0
+apply
+torus
+200 200 50 100
+save
+image.png
+quit
